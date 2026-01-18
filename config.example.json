@@ -1,0 +1,5 @@
+{
+    "email": "your-tapo-email@example.com",
+    "password": "your-tapo-password",
+    "device_ip": "192.168.1.xxx"
+}
