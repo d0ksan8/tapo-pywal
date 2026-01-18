@@ -25,7 +25,7 @@ Change your wallpaper, and watch your room lighting match automatically.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tapo-pywal.git
+   git clone https://github.com/d0ksan8/tapo-pywal.git
    cd tapo-pywal
    ```
 
